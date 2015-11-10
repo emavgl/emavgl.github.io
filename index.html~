@@ -356,7 +356,7 @@
                         <h2>RandomCenter</h2>
                         <hr class="star-primary">
                         <img src="img/portfolio/randomcenter.png" class="img-responsive img-centered" alt="">
-                        <p>_ <a href="https://www.microsoft.com/it-it/store/apps/randomcenter/9wzdncrdg91n">Link to Windows Store</a> _ <br><br> RandomCenter is a simple application for Windows Phone to generate random values. It can generates list of numbers, passwords, roll dice, flip coin and other things. Flip the coin or Roll Dice shaking your smartphone! We hope you have fun using it.</p>
+                        <p><a href="https://www.microsoft.com/store/apps/9wzdncrdg91n"><img src="https://cmsresources.windowsphone.com/devcenter/common/resources/images/badgegenerator/English_wstore_black_258x67.png" alt="Download from Windows Store" /></a> <br><br> RandomCenter is a simple application for Windows Phone to generate random values. It can generates list of numbers, passwords, roll dice, flip coin and other things. Flip the coin or Roll Dice shaking your smartphone! We hope you have fun using it.</p>
                         <ul class="list-inline item-details">
                             <li>Client:
                                 <strong><a href=""></a>
