@@ -1,0 +1,86 @@
+baseurl = "http://www.example.com"
+title = "About Emanuele"
+theme = "hugo-coder"
+languagecode = "en"
+defaultcontentlanguage = "en"
+
+paginate = 20
+
+pygmentsstyle = "bw"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+# disqusShortname = "yourdiscussshortname"
+
+[params]
+  author = "Emanuele Viglianisi"
+  info = "Data and Software Engineer"
+  description = "Emanuele's personal website"
+  keywords = "blog,developer,personal"
+  avatarurl = "images/avatar.jpg"
+  #gravatar = "john.doe@example.com"
+
+  favicon_32 = "/img/favicon-32x32.png"
+  favicon_16 = "/img/favicon-16x16.png"
+
+  footercontent = "Opinions are my own."
+  hideFooter = false
+  hideCredits = false
+  hideCopyright = false
+  since = 2020
+
+  enableTwemoji = true
+
+  colorsheme = "light"
+  hidecolorschemetoggle = true
+
+  customCSS = ["css/custom.css"]
+#  customSCSS = ["scss/custom.scss"]
+#  customJS = ["js/custom.js"]
+
+[taxonomies]
+  category = "categories"
+  series = "series"
+  tag = "tags"
+  author = "authors"
+
+# Social links
+[[params.social]]
+  name = "Github"
+  icon = "fa fa-github fa-2x"
+  weight = 1
+  url = "https://github.com/emavgl/"
+[[params.social]]
+  name = "Linkedin"
+  icon = "fa fa-linkedin fa-2x"
+  weight = 2
+  url = "https://www.linkedin.com/in/emanuele-viglianisi/"
+[[params.social]]
+  name = "Twitter"
+  icon = "fa fa-twitter fa-2x"
+  weight = 3
+  url = "https://twitter.com/emavgl/"
+[[params.social]]
+  name = "Email"
+  icon = "fa fa-envelope fa-2x"
+  weight = 4
+  url = "mailto:emavgl@gmail.com"
+
+# Menu links
+[[menu.main]]
+  name = "Blog"
+  weight = 1
+  url = "blog/"
+#  url  = "posts/"
+[[menu.main]]
+  name = "Projects"
+  weight = 2
+  url = "projects/"
+[[menu.main]]
+  name = "About"
+  weight = 3
+  url = "about/"
+[[menu.main]]
+  name = "Curriculum (CV)"
+  weight = 3
+  url = "/document/cv_2020.pdf"
