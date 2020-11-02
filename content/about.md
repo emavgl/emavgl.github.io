@@ -19,17 +19,27 @@ I'm a Data and Software Engineer working on Cloud solutions for processing strea
 
 I'm Italian and I grew up in the beautiful Sicily. After my bachelor studies in Catania, I moved to Trento to complete my studies with a master in Computer Science focusing on Data and Security. After 2 years working as a Researcher at Fondazione Bruno Kessler I moved to Austria (Linz) for joining the Data Team at Runtastic as a Data Engineer. Other than working on side-projects, I spend my free-time going running, cooking (and eating), reading, and visiting new places.
 
-## Work Experiences
+## Experiences
 
 - **[2020-Present] Data Engineeer at Runtastic**
 
 I'm working on migrating our existing on-premise analytics architecture (hadoop, impala, data warehouse) to the cloud (databricks, azure).   
 **Technologies**: Python, PySpark, Databricks, Microsoft Azure
 
+- **[Sep-Dec 2019] Teaching assistant for the master course Security Testing**
+
+I taught part of the master course titled "Security Testing" at the University of Trento. I had to teach OWASP top 10 vulnerabilities and how to write automatic test-cases using Selenium to attack and assert the fix of the vulnerable applications.
+
+
 - **[2018-2019] Software Engineer and Researcher at Fondazione Bruno Kessler (FBK)**
 
 I worked on a European funded project (EIT Digital) in the fintech domain. I developed a new state-of-the-art blackbox testing tool to run functional and security tests on RESTful APIs. The associated [research paper](https://ieeexplore.ieee.org/abstract/document/9159077/) won the Distinguished Paper Award at the ICST 2020 conference. Previously, I worked on a [block-box security testing tool](https://www.sciencedirect.com/science/article/pii/S0164121220301163) for Ethereum Smart Contract.  
 **Technologies**: Python, Z3, Blockchain (Ethereum), Solidity, Web3JS, Truffle Framework, Node.JS, Java, Gradle.
+
+- **[Mar-Jul 2016] Internship and Bachelor thesis at [*JOL WAVE TIM*](https://www.wcap.tim.it/it/tim-joint-open-labs)**
+
+I worked on the project [The Social Picture](https://iplab.dmi.unict.it/TSP/) developing the web and the android applications. The project *The Social Picture* is part of my bachelor thesis: _Mobile Interface for acquiring images, automatic tagging and captioning_.  
+**Technologies**: Android, Java, Angular, RESTful APIs
 
 ## Webinar and Conferences
 
