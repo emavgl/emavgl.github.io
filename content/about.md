@@ -17,7 +17,7 @@ Hello!
 
 I'm a Data and Software Engineer working on Cloud solutions for processing streaming of data and deploying data products. I'm passionate about Python and I love working on innovative data-driven applications. 
 
-I'm Italian and I grew up in the beautiful Sicily. After my bachelor studies in Catania, I moved to Trento to complete my studies with a master in Computer Science focusing on Data and Security. After 2 years working as a Researcher at Fondazione Bruno Kessler I moved to Austria (Linz) for joining the Data Team at Runtastic as a Data Engineer. Other than working on side-projects, I spend my free-time going running, cooking (and eating), reading, and visiting new places.
+I'm Italian and I grew up in the beautiful Sicily. After my bachelor studies in Catania, I moved to Trento to complete my studies with a master in Computer Science focusing on Data and Security. After 2 years working as Researcher at Fondazione Bruno Kessler I moved to Austria (Linz) for joining the Data Team at Runtastic as Data Engineer. Other than working on side-projects, I spend my free-time going running, cooking (and eating), reading, and visiting new places.
 
 ## Experiences
 
@@ -40,6 +40,11 @@ I worked on a European funded project (EIT Digital) in the fintech domain. I dev
 
 I worked on the project [The Social Picture](https://iplab.dmi.unict.it/TSP/) developing the web and the android applications. The project *The Social Picture* is part of my bachelor thesis: _Mobile Interface for acquiring images, automatic tagging and captioning_.  
 **Technologies**: Android, Java, Angular, RESTful APIs
+
+## Certifications
+
+- [Microsoft Certified: Azure Fundamentals](https://docs.microsoft.com/en-us/learn/certifications/azure-fundamentals/)
+- [Microsoft Certified: Azure Data Engineer Associate](https://docs.microsoft.com/en-gb/learn/certifications/azure-data-engineer/)
 
 ## Webinar and Conferences
 
