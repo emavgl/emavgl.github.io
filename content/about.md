@@ -48,6 +48,11 @@ I worked on the project [The Social Picture](https://iplab.dmi.unict.it/TSP/) de
 
 ## Webinar and Conferences
 
+#### 2022
+
+- [Big Data Week 2022 Bucharest](https://bucharest.bigdataweek.com/session/zero2hero-an-advanced-data-platform-to-drive-user-engagement/) and [Big Data Conference Europe 2022](https://events.pinetool.ai/2749/#speakers/789010?referrer%5Bpathname%5D=%2Fspeakers&referrer%5Bsearch%5D=&referrer%5Btitle%5D=Speakers)  
+ZERO2HERO: An Advanced Data Platform To Drive User Engagement
+
 #### 2020
 
 - [Data+AI Summit Europe, 2020-11-18](https://databricks.com/session_eu20/developing-ml-enabled-data-pipelines-on-databricks-using-ide-ci-cd-at-runtastic) and [CI/CD Template Webinar, 2020-10-20](https://databricks.com/p/webinar/developing-ml-enabled-data-pipelines-on-databricks-using-ide-ci-cd)  
