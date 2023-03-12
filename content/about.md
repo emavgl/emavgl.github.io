@@ -9,12 +9,11 @@ slug = "about"
 </div>
 {{< /rawhtml >}}  
   
-_Hello, I'm_  
 **_Emanuele Viglianisi_**  
 *Software Engineer (Data) at Runtastic*  
 *emavgl@gmail.com*
 
-I'm Italian and I grew up in the beautiful Sicily. After my bachelor studies in Catania, I moved to Trento to complete my studies with a master in Computer Science focusing on Data and Security. After 2 years working as Researcher at Fondazione Bruno Kessler I moved to Austria (Linz) for joining the Data Team at Runtastic as Software Engineer in the data team. Other than working on side-projects, I spend my free-time going running, cooking (and eating), reading, and visiting new places.
+My name is Emanuele and I am originally from the beautiful island of Sicily in Italy. After completing my Bachelor's degree in Catania, I pursued a Master's degree in Computer Science with a focus on Data and Security at Trento. Following my studies, I worked as a Researcher at Fondazione Bruno Kessler for two years before moving to Linz, Austria to join the Data Team at Runtastic as a Software Engineer. In my free time, I enjoy running, cooking (and eating), reading and exploring new places.
 
 ## Experiences
 
