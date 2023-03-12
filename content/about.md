@@ -7,15 +7,12 @@ slug = "about"
 <div style="text-align: left;">
     <img src="/images/avatar.jpg" width="300" />
 </div>
-{{< /rawhtml >}}
-
+{{< /rawhtml >}}  
+  
+_Hello, I'm_  
 **_Emanuele Viglianisi_**  
-*Data Engineer at Runtastic*  
+*Software Engineer (Data) at Runtastic*  
 *emavgl@gmail.com*
-
-Hello!
-
-I'm a Data and Software Engineer working on Cloud solutions for processing streaming of data and deploying data products. I'm passionate about Python and I love working on innovative data-driven applications. 
 
 I'm Italian and I grew up in the beautiful Sicily. After my bachelor studies in Catania, I moved to Trento to complete my studies with a master in Computer Science focusing on Data and Security. After 2 years working as Researcher at Fondazione Bruno Kessler I moved to Austria (Linz) for joining the Data Team at Runtastic as Software Engineer in the data team. Other than working on side-projects, I spend my free-time going running, cooking (and eating), reading, and visiting new places.
 
