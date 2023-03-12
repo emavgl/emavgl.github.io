@@ -17,16 +17,20 @@ Hello!
 
 I'm a Data and Software Engineer working on Cloud solutions for processing streaming of data and deploying data products. I'm passionate about Python and I love working on innovative data-driven applications. 
 
-I'm Italian and I grew up in the beautiful Sicily. After my bachelor studies in Catania, I moved to Trento to complete my studies with a master in Computer Science focusing on Data and Security. After 2 years working as Researcher at Fondazione Bruno Kessler I moved to Austria (Linz) for joining the Data Team at Runtastic as Data Engineer. Other than working on side-projects, I spend my free-time going running, cooking (and eating), reading, and visiting new places.
+I'm Italian and I grew up in the beautiful Sicily. After my bachelor studies in Catania, I moved to Trento to complete my studies with a master in Computer Science focusing on Data and Security. After 2 years working as Researcher at Fondazione Bruno Kessler I moved to Austria (Linz) for joining the Data Team at Runtastic as Software Engineer in the data team. Other than working on side-projects, I spend my free-time going running, cooking (and eating), reading, and visiting new places.
 
 ## Experiences
 
-- **[2020-Present] Data Engineeer at Runtastic**
+- **[2020-Present] Software Engineer (Data) at Runtastic**
 
-    - I worked at the migration of data and data platform to the cloud using Databricks and Microsoft Azure.
-    - I have taken part in the design and implementation of most of the cloud architecture and the ETL pipelines, implementing GDPR Compliance, Data Quality measure, CICD tooling, alerting.
-    - In Q1 2022 I have been working in the Android Team, developing new feature in the android apps adidas Running and adidas Traning
-    - In Q3 2022 I have been working with adidas sales team in Data & Analytics, advising on best practices and collaborating with the team implementing the first ETL streaming pipeline serving a dashboard for almost-real-time decision.
+    I am currently working as a Software Engineer in the Data Team. My main focus is on data architecture design, managing data migration to adidas, and improving our data platform and CI/CD.
+
+    - I worked on the migration of data and data platform to the cloud using Databricks and Microsoft Azure.
+    - I have taken part in designing and implementing most of the cloud architecture and ETL pipelines, implementing GDPR compliance, data quality measures, CI/CD tooling, and alerting.
+    - I have implemented data products connected to backend services such as follower recommendations and retention models.
+    - In Q1 2022, I worked in the Android Team developing new features for the adidas Running and adidas Training android apps.
+    - In Q3 2022, I worked with the adidas sales team in Data & Analytics advising on best practices and collaborating with the team to implement the first ETL streaming pipeline serving an almost real-time dashboard used for making quick decisions during key selling moments (e.g., Black Friday).
+   
     - **Technologies**: Python, PySpark, Kotlin, Databricks, Microsoft Azure
 
 - **[Sep-Dec 2019] Teaching assistant for the master course Security Testing**
