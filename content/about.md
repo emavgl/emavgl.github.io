@@ -55,7 +55,7 @@ My name is Emanuele and I am originally from the beautiful island of Sicily in I
 ZERO2HERO: An Advanced Data Platform To Drive User Engagement, **Emanuele Viglianisi**, Daniele Montesi
 
 - [Data+AI Summit Europe, 2020-11-18](https://databricks.com/session_eu20/developing-ml-enabled-data-pipelines-on-databricks-using-ide-ci-cd-at-runtastic) and [CI/CD Template Webinar, 2020-10-20](https://databricks.com/p/webinar/developing-ml-enabled-data-pipelines-on-databricks-using-ide-ci-cd)  
-Developing ML-enabled Data Pipelines on Databricks using IDE & CI/CD at Runtastic**Emanuele Viglianisi**, Michael Shtelma
+Developing ML-enabled Data Pipelines on Databricks using IDE & CI/CD at Runtastic, **Emanuele Viglianisi**, Michael Shtelma
 
 ## Publications
 
