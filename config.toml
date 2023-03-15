@@ -83,4 +83,4 @@ pygmentscodefencesguesssyntax = true
 [[menu.main]]
   name = "Curriculum (CV)"
   weight = 3
-  url = "/document/cv_2020.pdf"
+  url = "/document/emanuele_viglianisi.pdf"
