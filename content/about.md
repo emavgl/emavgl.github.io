@@ -34,16 +34,25 @@ My name is Emanuele and I am originally from the beautiful island of Sicily in I
 
     - I taught part of the master course titled "Security Testing" at the University of Trento. I had to teach OWASP top 10 vulnerabilities and how to write automatic test-cases using Selenium to attack and assert the fix of the vulnerable applications.
 
-
 - **[2018-2019] Software Engineer and Researcher at Fondazione Bruno Kessler (FBK)**
 
-    - I worked on a European funded project (EIT Digital) in the fintech domain. I developed a new state-of-the-art blackbox testing tool to run functional and security tests on RESTful APIs. The associated [research paper](https://ieeexplore.ieee.org/abstract/document/9159077/) won the Distinguished Paper Award at the ICST 2020 conference. Previously, I worked on a [block-box security testing tool](https://www.sciencedirect.com/science/article/pii/S0164121220301163) for Ethereum Smart Contract.  
-    - **Technologies**: Python, Z3, Blockchain (Ethereum), Solidity, Web3JS, Truffle Framework, Node.JS, Java, Gradle.
+    - I worked on a European funded project (EIT Digital) in the fintech domain. I developed a new 
+state-of-the-art blackbox testing tool to run functional and security tests on RESTful APIs. The 
+associated [research paper](https://ieeexplore.ieee.org/abstract/document/9159077/) won the 
+Distinguished Paper Award at the ICST 2020 conference. Previously, I worked on a [block-box security 
+testing tool](https://www.sciencedirect.com/science/article/pii/S0164121220301163) for Ethereum Smart 
+Contract.  
 
-- **[Mar-Jul 2016] Internship and Bachelor thesis at [*JOL WAVE TIM*](https://www.wcap.tim.it/it/tim-joint-open-labs)**
+    - In Q4 2019 I was Teaching assistant for the master course titled "Security Testing" at the University of Trento. Topics: OWASP top 10 vulnerabilities and how to write automatic test-cases using Selenium to attack and 
+assert the fix of the vulnerable applications.
 
-    - I worked on the project [The Social Picture](https://iplab.dmi.unict.it/TSP/) developing the web and the android applications. The project *The Social Picture* is part of my bachelor thesis: _Mobile Interface for acquiring images, automatic tagging and captioning_.  
-    - **Technologies**: Android, Java, Angular, RESTful APIs
+    - **Technologies**: Python, Z3, Blockchain (Ethereum), Solidity, Web3JS, Truffle Framework, Node.JS, 
+Java, Gradle.
+
+## Educations
+
+- **[2016 – 2018] Master of Science - Computer Science**, Università di Trento
+- **[2013 – 2016] Bachelor's degree - Computer Science**, University of Catania
 
 ## Certifications
 
