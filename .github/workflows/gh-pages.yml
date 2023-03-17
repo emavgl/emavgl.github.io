@@ -22,6 +22,14 @@ jobs:
 
       - name: Clean public directory
         run: rm -rf public
+        
+      - name: Build the CV in PDF
+        run: |
+          sudo apt update
+          sudo apt install -y pandoc texlive-latex-base texlive-latex-recommended texlive-latex-extra
+          tail -n +12 content/about.md > cv.md
+          pandoc cv.md -o output.pdf -V geometry:margin=1in
+          cp output.pdf static/document/emanuele_viglianisi.pdf
 
       - name: Build
         run: hugo --minify
