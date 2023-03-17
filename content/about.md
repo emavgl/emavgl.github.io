@@ -10,7 +10,7 @@ slug = "about"
 {{< /rawhtml >}}  
   
 **_Emanuele Viglianisi_**  
-*Software Engineer (Data) at Runtastic*  
+*Software Engineer (Data)*  
 *emavgl@gmail.com*   
 *https://emavgl.github.io*
 
@@ -18,9 +18,9 @@ My name is Emanuele and I am originally from the beautiful island of Sicily in I
 
 ## Experiences
 
-- **[2020-Present] Software Engineer (Data) at Runtastic**
+- **[2020-2023] Software Engineer (Data) at Runtastic**
 
-    I am currently working as a Software Engineer in the Data Team. My main focus is on data architecture design, managing data exchange with adidas, and improving our data platform and CI/CD.
+    At Runtastic, I worked as Software Engineer in the Data Team. My main focus is on data architecture design, managing data exchange with adidas, and improving our data platform and CI/CD.
 
     - I contributed to the migration of data and data platform to a cloud based solution, based on Databricks and Microsoft Azure.
     - I took part in designing and implementing the architecture of our data platform, including the ETL pipelines, systems to ensure GDPR compilance and data quality, CI/CD tooling, ad alerting.
@@ -28,11 +28,7 @@ My name is Emanuele and I am originally from the beautiful island of Sicily in I
     - In Q1 2022, I worked in the Android Team developing new features for the adidas Running and adidas Training android apps.
     - In Q3 2022, I worked with the adidas sales Data & Analytics team advising on best practices and collaborating with the team to implement the first ETL streaming pipeline serving an almost real-time dashboard used for making quick decisions during key selling moments (e.g., Black Friday).
    
-    - **Technologies**: Python, PySpark, Kotlin, Databricks, Microsoft Azure
-
-- **[Sep-Dec 2019] Teaching assistant for the master course Security Testing**
-
-    - I taught part of the master course titled "Security Testing" at the University of Trento. I had to teach OWASP top 10 vulnerabilities and how to write automatic test-cases using Selenium to attack and assert the fix of the vulnerable applications.
+    - **Technologies**: Python, PySpark, Databricks, Microsoft Azure, Kotlin
 
 - **[2018-2019] Software Engineer and Researcher at Fondazione Bruno Kessler (FBK)**
 
