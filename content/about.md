@@ -47,8 +47,8 @@ Java, Gradle.
 
 ## Educations
 
-- **[2016 – 2018] Master of Science - Computer Science**, Università di Trento
-- **[2013 – 2016] Bachelor's degree - Computer Science**, University of Catania
+- **[2016 – 2018] Master of Science - Computer Science**, University of Trento, full marks with honors
+- **[2013 – 2016] Bachelor's degree - Computer Science**, University of Catania, full marks with honors
 
 ## Certifications
 
