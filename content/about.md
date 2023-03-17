@@ -20,7 +20,7 @@ My name is Emanuele and I am originally from the beautiful island of Sicily in I
 
 - **[2020-2023] Software Engineer (Data) at Runtastic**
 
-    At Runtastic, I worked as Software Engineer in the Data Team. My main focus is on data architecture design, managing data exchange with adidas, and improving our data platform and CI/CD.
+    At Runtastic, I worked as Software Engineer in the Data Team. My main focus was on data architecture design, managing data exchange with adidas, and improving our data platform and CI/CD.
 
     - I contributed to the migration of data and data platform to a cloud based solution, based on Databricks and Microsoft Azure.
     - I took part in designing and implementing the architecture of our data platform, including the ETL pipelines, systems to ensure GDPR compilance and data quality, CI/CD tooling, ad alerting.
