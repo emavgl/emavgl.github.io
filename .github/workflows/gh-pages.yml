@@ -27,8 +27,8 @@ jobs:
         run: |
           sudo apt update
           sudo apt install -y pandoc texlive-latex-base texlive-latex-recommended texlive-latex-extra
-          tail -n +13 content/about.md > cv.md
-          (echo "## *Emanuele Viglianisi*"; cat cv.md) > cv.md
+          tail -n +13 content/about.md > tmp.md
+          (echo "## *Emanuele Viglianisi*"; cat tmp.md) > cv.md
           pandoc cv.md -o output.pdf -V fontsize=12pt -V geometry:margin=0.9in
           cp output.pdf static/document/emanuele_viglianisi.pdf
 
