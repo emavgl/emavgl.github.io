@@ -29,7 +29,7 @@ I am a Software Engineer with experience in designing and implementing big data 
         - [*Zero2Hero*](https://bucharest.bigdataweek.com/session/zero2hero-an-advanced-data-platform-to-drive-user-engagement/): A model identifying user behaviours and app features that drive the engagment of new users over time.
     - In Q1 2022, I interned in the Android Team, developing new features related to Activity Sharing for the adidas Running and adidas Training android apps.
     - In Q3 2022, I worked with the adidas sales Data & Analytics team, advising on best practices and collaborating with the team to implement a new ETL streaming pipeline. The pipeline powered an almost real-time dashboard used for making quick decisions during key selling moments (e.g., Black Friday).
-    - In 2023, I was also helped with managing the project to design and implement a system to exchange data with adidas.
+    - In 2023, I was also helping with managing the project to design and implement a system to exchange data with adidas.
    
     - **Technologies**: Python, PySpark, Databricks, Azure Data Factory, Azure EventHub, Azure Web App, Azure Functions, Kafka, Kotlin
 
