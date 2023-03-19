@@ -15,9 +15,9 @@ slug = "about"
 
 I am a Software Engineer with experience in designing and implementing big data platforms. I have a strong background in data engineering, cloud computing, distributed systems and security. I am originally from Sicily, Italy, but currently living in Linz, Austria. In my free time, I enjoy running, cooking (and eating), reading, and exploring new places. I am looking for a new challenge as a Software Engineer in a dynamic and innovative company.
 
-## Experiences
+### Experiences
 
-### [2020-2023] Software Engineer (Data) at Runtastic
+#### [2020-2023] Software Engineer (Data) at Runtastic
 
 At Runtastic, I worked as Software Engineer in the Data Team. My main focus was designing and implementing the data platform and the associated CI/CD.
 
@@ -32,7 +32,7 @@ At Runtastic, I worked as Software Engineer in the Data Team. My main focus was 
 
 - **Technologies**: Python, PySpark, Databricks, Azure Data Factory, Azure EventHub, Azure Web App, Azure Functions, Kafka, Kotlin
 
-###  **[2018-2019] Software Engineer and Researcher at Fondazione Bruno Kessler (FBK)**
+####  **[2018-2019] Software Engineer and Researcher at Fondazione Bruno Kessler (FBK)**
 
 - I worked on a European funded project (EIT Digital) in the fintech domain. I developed a new 
 state-of-the-art blackbox testing tool to run functional and security tests on RESTful APIs. The 
@@ -45,17 +45,17 @@ Distinguished Paper Award at the ICST 2020 conference.
 - **Technologies**: Python, Z3, Blockchain (Ethereum), Solidity, Web3JS, Truffle Framework, Node.JS, 
 Java, Gradle.
 
-## Educations
+### Educations
 
 - **[2016 – 2018] Master of Science - Computer Science**, University of Trento, full marks with honors
 - **[2013 – 2016] Bachelor's degree - Computer Science**, University of Catania, full marks with honors
 
-## Certifications
+### Certifications
 
 - [Microsoft Certified: Azure Fundamentals](https://docs.microsoft.com/en-us/learn/certifications/azure-fundamentals/)
 - [Microsoft Certified: Azure Data Engineer Associate](https://docs.microsoft.com/en-gb/learn/certifications/azure-data-engineer/)
 
-## Webinar and Conferences
+### Webinar and Conferences
 
 I presented at the following conferences:
 
@@ -65,21 +65,19 @@ ZERO2HERO: An Advanced Data Platform To Drive User Engagement - **Emanuele Vigli
 - [Data+AI Summit Europe, 2020-11-18](https://databricks.com/session_eu20/developing-ml-enabled-data-pipelines-on-databricks-using-ide-ci-cd-at-runtastic) and [CI/CD Template Webinar, 2020-10-20](https://databricks.com/p/webinar/developing-ml-enabled-data-pipelines-on-databricks-using-ide-ci-cd)  
 Developing ML-enabled Data Pipelines on Databricks using IDE & CI/CD at Runtastic - **Emanuele Viglianisi**, Michael Shtelma
 
-## Publications
+### Publications
 
 I am the main author of the following research publications:
 
 - [RESTTESTGEN: Automated Black-Box Testing of RESTful APIs](https://ieeexplore.ieee.org/abstract/document/9159077/)  **(Distinguished Paper Award)**  
-**E Viglianisi**, M Dallago, M Ceccato
-2020 IEEE 13th International Conference on Software Testing, Validation and Verification (ICST)
+**E Viglianisi**, M Dallago, M Ceccato - 2020 IEEE 13th International Conference on Software Testing, Validation and Verification (ICST)
 
 - [A federated society of bots for smart contract testing](https://www.sciencedirect.com/science/article/pii/S0164121220301163)  
-**E Viglianisi**, M Ceccato, P Tonella  
-Journal of Systems and Software, 110647  
+**E Viglianisi**, M Ceccato, P Tonella - Journal of Systems and Software, 110647  
 
 Check my profile on [Google Scholar](https://scholar.google.com/citations?user=jSjoAKEAAAAJ&hl=it) for more.
 
-## Language skills
+### Language skills
 
 - Italian: Native speaker
 - English: Professionally Proficient
