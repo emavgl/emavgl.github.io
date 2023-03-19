@@ -8,8 +8,8 @@ slug = "about"
     <img src="/images/avatar.jpg" width="300" />
 </div>
 {{< /rawhtml >}}  
-  
- **_Emanuele Viglianisi_**
+
+ **_Emanuele Viglianisi_**  
 *Software Engineer (Data)*  
 *emavgl@gmail.com*   
 
