@@ -9,7 +9,7 @@ slug = "about"
 </div>
 {{< /rawhtml >}}  
   
-## _Emanuele Viglianisi_  
+ **_Emanuele Viglianisi_**
 *Software Engineer (Data)*  
 *emavgl@gmail.com*   
 
