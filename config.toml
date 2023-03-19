@@ -67,10 +67,10 @@ pygmentscodefencesguesssyntax = true
   url = "mailto:emavgl@gmail.com"
 
 # Menu links
-[[menu.main]]
-  name = "Blog"
-  weight = 1
-  url = "blog/"
+#[[menu.main]]
+#  name = "Blog"
+#  weight = 1
+#  url = "blog/"
 #  url  = "posts/"
 [[menu.main]]
   name = "Projects"
@@ -83,4 +83,4 @@ pygmentscodefencesguesssyntax = true
 [[menu.main]]
   name = "Curriculum (CV)"
   weight = 3
-  url = "/document/emanuele_viglianisi.pdf"
+  url = "https://docs.google.com/document/d/1qrQFRr6-voNLREhd0zHKwRxAH_RpErikrnpDnr8ZqP0/export?format=pdf"
