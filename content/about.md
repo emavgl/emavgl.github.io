@@ -11,9 +11,9 @@ slug = "about"
 
 **_Emanuele Viglianisi_**  
 *Software Engineer (Data)*  
-*emavgl@gmail.com*
-*github.com/emavgl*
-*linkedin.com/in/emanuele-viglianisi* 
+*emavgl@gmail.com*  
+*[github.com/emavgl](https://github.com/emavgl)*  
+*[linkedin.com/in/emanuele-viglianisi](https://linkedin.com/in/emanuele-viglianisi)* 
 
 I am a Software Engineer with experience in designing and implementing big data platforms. I have a strong background in data engineering, cloud computing, distributed systems and security. I am originally from Sicily, Italy, but living in Linz, Austria. In my free time, I enjoy running, cooking (and eating), reading, and exploring new places. I am looking for a new challenge as a Software Engineer in a dynamic and innovative company.
 
