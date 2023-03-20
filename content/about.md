@@ -17,9 +17,10 @@ slug = "about"
 
 I am a Software Engineer with experience in designing and implementing big data platforms. I have a strong background in data engineering, cloud computing, distributed systems and security. I am originally from Sicily, Italy, but living in Linz, Austria. In my free time, I enjoy running, cooking (and eating), reading, and exploring new places. I am looking for a new challenge as a Software Engineer in a dynamic and innovative company.
 
-### Experiences
+### Work experience
 
-#### [2020-2023] Software Engineer (Data) at Runtastic
+#### Software Engineer (Data) at Runtastic
+**2020-2023**
 - Worked on designing and implementing Runtastic's new data platform, based on Databricks and Microsoft Azure, including ETL pipelines, systems to ensure GDPR compliance and data quality, CI/CD tooling, orchestration, and alerting.
 - Worked with the data science team, implementing data products such as:
     - Follower Recommendation: A graph-based recommendation system to find and suggest users who share common interests and connections. The solution is based on Pyspark and - Graphframes and increased the average number of followers per user by 60%.
@@ -29,8 +30,8 @@ I am a Software Engineer with experience in designing and implementing big data 
 - Q1 2022: Temporarily worked in the Android Team, developing new Activity Sharing features.
 - **Technologies**: Python, PySpark, Databricks, Azure Data Factory, Azure EventHub, Azure Web App, Azure Functions, Kafka, Kotlin
 
-####  **[2018-2019] Software Engineer and Researcher at Fondazione Bruno Kessler (FBK)**
-
+####  **Software Engineer and Researcher at Fondazione Bruno Kessler (FBK)**
+**2018-2019**
 - Worked on a EU-funded project (EIT Digital) in the fintech domain. Developed a new state-of-the-art blackbox testing tool to run functional and security tests on RESTful APIs. The associated [research paper](https://ieeexplore.ieee.org/abstract/document/9159077/) won the 
 Distinguished Paper Award at the ICST 2020 conference.
 - Q4 2019: Worked as teaching assistant for the master’s course “Security Testing” at the University of Trento. The course covered OWASP top 10 and how to write automated security tests using Selenium.
