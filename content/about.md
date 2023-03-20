@@ -31,7 +31,7 @@ I am a Software Engineer with experience in designing and implementing big data 
 - **Technologies**: Python, PySpark, Databricks, Azure Data Factory, Azure EventHub, Azure Web App, Azure Functions, Kafka, Kotlin
 
 ####  **Software Engineer and Researcher at Fondazione Bruno Kessler (FBK)**
-**2018-2019**
+
 - Worked on a EU-funded project (EIT Digital) in the fintech domain. Developed a new state-of-the-art blackbox testing tool to run functional and security tests on RESTful APIs. The associated [research paper](https://ieeexplore.ieee.org/abstract/document/9159077/) won the 
 Distinguished Paper Award at the ICST 2020 conference.
 - Q4 2019: Worked as teaching assistant for the master’s course “Security Testing” at the University of Trento. The course covered OWASP top 10 and how to write automated security tests using Selenium.
@@ -39,10 +39,12 @@ Distinguished Paper Award at the ICST 2020 conference.
 
 ### Educations
 
-- **[2016 – 2018] Master of Science - Computer Science**, University of Trento, full marks with honors
+- **Master of Science - Computer Science**, University of Trento, full marks with honors  
+    **2016-2018**
     - Specializing in Software Engineering, Security Testing, Machine Learning, Big Data Analysis and Data mining. Thesis in collaboration with FBK, consisting in a novel tool for [black-box security testing](https://www.sciencedirect.com/science/article/pii/S0164121220301163) of Ethereum Smart Contracts.
     Technologies: Python, Z3, Blockchain (Ethereum), Solidity, Web3JS, Truffle Framework, Node.JS.
-- **[2013 – 2016] Bachelor's degree - Computer Science**, University of Catania, full marks with honors
+- **Bachelor's degree - Computer Science**, University of Catania, full marks with honors  
+    **2013-2016**
 
 ### Certifications
 
