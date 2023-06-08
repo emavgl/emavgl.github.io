@@ -1,5 +1,5 @@
-baseurl = "http://www.example.com"
-title = "About Emanuele"
+baseurl = "https://www.emavgl.github.io"
+title = "About Emanuele - Contacts, CV and Opinions"
 theme = "hugo-coder"
 languagecode = "en"
 defaultcontentlanguage = "en"
@@ -15,7 +15,7 @@ pygmentscodefencesguesssyntax = true
 [params]
   author = "Emanuele Viglianisi"
   info = "Data and Software Engineer"
-  description = "Emanuele's personal website"
+  description = "Emanuele is Data and Software Engineer with over 5 years of experience. Find out more about his skills, contact details and opinions."
   keywords = "blog,developer,personal"
   avatarurl = "images/avatar.jpg"
   #gravatar = "john.doe@example.com"
