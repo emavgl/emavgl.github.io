@@ -1,5 +1,5 @@
 baseurl = "https://www.emavgl.github.io"
-title = "About Emanuele - Contacts, CV and Opinions"
+title = "About Emanuele"
 theme = "hugo-coder"
 languagecode = "en"
 defaultcontentlanguage = "en"
@@ -14,8 +14,8 @@ pygmentscodefencesguesssyntax = true
 
 [params]
   author = "Emanuele Viglianisi"
-  info = "Data and Software Engineer"
-  description = "Emanuele is Data and Software Engineer with over 5 years of experience. Find out more about his skills, contact details and opinions."
+  info = "Senior Data and Software Engineer"
+  description = "Emanuele is Senior Data and Software Engineer with over 5 years of experience. Find out more about his skills, contact details and opinions."
   keywords = "blog,developer,personal"
   avatarurl = "images/avatar.jpg"
   #gravatar = "john.doe@example.com"
@@ -59,7 +59,7 @@ pygmentscodefencesguesssyntax = true
   name = "Twitter"
   icon = "fa fa-twitter fa-2x"
   weight = 3
-  url = "https://twitter.com/emavgl/"
+  url = "https://x.com/emavgl/"
 [[params.social]]
   name = "Email"
   icon = "fa fa-envelope fa-2x"
