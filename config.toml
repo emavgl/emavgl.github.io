@@ -1,5 +1,5 @@
 baseURL = "https://emavgl.github.io/"
-title='Emanuele Viglianisi'
+title='About Emanuele Viglianisi'
 theme = "hugo-coder"
 
 languageCode = "en"
@@ -42,7 +42,7 @@ author = "Emanuele Viglianisi"
 # license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
 description = "Emanuele's personal website"
 keywords = "blog, developer, personal"
-info = ['Senior Software Developer' , 'Senior Data Engineer']
+info = ['Senior Software (& Data) Engineer']
 avatarURL = "images/avatar.jpg"
 #gravatar = "john.doe@example.com"
 dateFormat = "January 2, 2006"
