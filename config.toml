@@ -13,6 +13,7 @@ enableEmoji = true
 
 canonifyURLs = true
 
+colorScheme = "light"
 hideColorSchemeToggle = true
 customSCSS = ["scss/custom.scss"]
 
