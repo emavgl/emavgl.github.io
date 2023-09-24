@@ -42,29 +42,35 @@ author = "Emanuele Viglianisi"
 # license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
 description = "Emanuele's personal website"
 keywords = "blog, developer, personal"
-info = ['ML/CV Deep Learning Developer' , 'Edge/Cloud Deep Learning Deployment' , 'MLOps Developer Advocate']
-avatarURL = "images/image.png"
+info = ['Senior Software Developer' , 'Senior Data Engineer']
+avatarURL = "images/avatar.png"
 #gravatar = "john.doe@example.com"
 dateFormat = "January 2, 2006"
 since = 2020
 
 [[params.social]]
 name = "Github"
-icon = "fa fa-2x fa-github"
+icon = "fa fa-github fa-2x"
 weight = 1
-url = "https://github.com/fabiogeraci/fabiogeraci"
+url = "https://github.com/emavgl/"
+
+[[params.social]]
+name = "Linkedin"
+icon = "fa fa-linkedin fa-2x"
+weight = 2
+url = "https://www.linkedin.com/in/emanuele-viglianisi/"
 
 [[params.social]]
 name = "Twitter"
-icon = "fa fa-2x fa-twitter"
+icon = "fa fa-twitter fa-2x"
 weight = 3
-url = "https://twitter.com/FGeraci73/"
+url = "https://x.com/emavgl/"
 
 [[params.social]]
-name = "LinkedIn"
-icon = "fa fa-2x fa-linkedin"
+name = "Email"
+icon = "fa fa-envelope fa-2x"
 weight = 4
-url = "https://www.linkedin.com/in/fabiogeraci/"
+url = "mailto:emavgl@gmail.com"
 
 [[languages.en.menu.main]]
 name = "About"
@@ -74,16 +80,15 @@ url = "about/"
 [[languages.en.menu.main]]
 name = "Blog"
 weight = 2
-url = "posts/"
+url = "blog/"
 
 [[languages.en.menu.main]]
 name = "Projects"
-weight = 2
+weight = 3
 url = "projects/"
 
 [[languages.en.menu.main]]
-name = "Contact me"
-weight = 5
-url = "contact/"
-
+name = "Curriculum (CV)"
+weight = 4
+url = "https://docs.google.com/document/d/1qrQFRr6-voNLREhd0zHKwRxAH_RpErikrnpDnr8ZqP0/export?format=pdf"
 
