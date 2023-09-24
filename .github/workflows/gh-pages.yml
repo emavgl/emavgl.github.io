@@ -3,39 +3,30 @@ name: github pages
 on:
   push:
     branches:
-      - master  # Set a branch to deploy
+      - main  # Set a branch to deploy
+  pull_request:
 
 jobs:
   deploy:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-22.04
     steps:
       - uses: actions/checkout@v3
         with:
-          submodules: recursive  # Fetch Hugo themes (true OR recursive)
+          submodules: true  # Fetch Hugo themes (true OR recursive)
           fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
-
-      - name: Git submodule update # may be uncessary, but I just want to make sure
-        run: |
-          git pull --recurse-submodules
-          git submodule update --remote --recursive    
 
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
           hugo-version: 'latest'
-          extended: true
-
-      - name: Clean public directory
-        run: rm -rf public
+          # extended: true
 
       - name: Build
-        run: hugo
+        run: hugo --minify
 
-      - name: Print tree
-        run: tree .
-        
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
+        if: github.ref == 'refs/heads/main'
         with:
-          github_token: ${{ secrets.GITHTOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
