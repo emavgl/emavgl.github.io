@@ -9,9 +9,9 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
         with:
-          submodules: true  # Fetch Hugo themes (true OR recursive)
+          submodules: recursive  # Fetch Hugo themes (true OR recursive)
           fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
 
       - name: Setup Hugo
@@ -22,18 +22,9 @@ jobs:
 
       - name: Clean public directory
         run: rm -rf public
-        
-      - name: Build the CV in PDF
-        run: |
-          sudo apt update
-          sudo apt install -y pandoc texlive-latex-base texlive-latex-recommended texlive-latex-extra
-          tail -n +13 content/about.md > tmp.md
-          (echo "## *Emanuele Viglianisi*"; cat tmp.md) > cv.md
-          pandoc cv.md -o output.pdf -V fontsize=11pt -V geometry:margin=0.9in
-          cp output.pdf static/document/emanuele_viglianisi.pdf
 
       - name: Build
-        run: hugo --minify
+        run: hugo
         
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
