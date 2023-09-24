@@ -1,5 +1,5 @@
-baseURL = "https://fabiogeraci.github.io/mljourney/"
-title='ML Journey'
+baseURL = "https://emavgl.github.io/"
+title='Emanuele Viglianisi'
 theme = "hugo-coder"
 
 languageCode = "en"
@@ -10,8 +10,6 @@ pygmentsCodeFences = true
 pygmentsCodeFencesGuessSyntax = true
 pygmentsUseClasses = false
 enableEmoji = true
-
-googleAnalytics = "${{secrets.GOOGLEANALYTICS_ID}}" #"G-LEPGC6QVMG"
 
 colorScheme = "dark"
 canonifyURLs = true
@@ -40,15 +38,15 @@ tag = "tags"
 author = "authors"
 
 [params]
-author = "Fabio Geraci"
+author = "Emanuele Viglianisi"
 # license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
-description = "Fabio Geraci's personal website"
+description = "Emanuele's personal website"
 keywords = "blog, developer, personal"
 info = ['ML/CV Deep Learning Developer' , 'Edge/Cloud Deep Learning Deployment' , 'MLOps Developer Advocate']
 avatarURL = "images/image.png"
 #gravatar = "john.doe@example.com"
 dateFormat = "January 2, 2006"
-since = 2019
+since = 2020
 
 [[params.social]]
 name = "Github"
