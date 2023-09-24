@@ -1,5 +1,5 @@
 baseURL = "https://emavgl.github.io/"
-title='About Emanuele Viglianisi'
+title='Emanuele Viglianisi'
 theme = "hugo-coder"
 
 languageCode = "en"
