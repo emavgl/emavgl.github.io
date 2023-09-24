@@ -1,5 +1,4 @@
-baseURL = "https://emavgl.github.io"
-title = "About Emanuele"
+baseURL = "https://www.emavgl.github.io"
 theme = "hugo-coder"
 languageCode = "en"
 defaultContentLanguage = "en"
