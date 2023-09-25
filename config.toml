@@ -12,9 +12,6 @@ pygmentsUseClasses = false
 enableEmoji = true
 
 canonifyURLs = true
-
-colorScheme = "light"
-hideColorSchemeToggle = true
 customSCSS = ["scss/custom.scss"]
 
 [markup.highlight]
@@ -37,6 +34,8 @@ avatarURL = "images/avatar.jpg"
 #gravatar = "john.doe@example.com"
 dateFormat = "January 2, 2006"
 since = 2020
+colorScheme = "light"
+hideColorSchemeToggle = true
 
 [[params.social]]
 name = "Github"
