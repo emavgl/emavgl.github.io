@@ -35,7 +35,7 @@ dateFormat = "January 2, 2006"
 since = 2020
 colorScheme = "light"
 hideColorSchemeToggle = true
-customSCSS = ["assets/custom.scss"]
+customSCSS = ["scss/custom.scss"]
 
 [[params.social]]
 name = "Github"
