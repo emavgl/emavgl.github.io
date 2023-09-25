@@ -2,6 +2,12 @@ ul {
     padding-inline-start: 20px;
 }
 
+@media only screen and (max-width: 768px) {
+    .avatar img {
+        width: 20rem;
+    }
+}
+
 
 figure.right-aligned {
     img {
