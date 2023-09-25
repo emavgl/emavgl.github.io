@@ -12,7 +12,6 @@ pygmentsUseClasses = false
 enableEmoji = true
 
 canonifyURLs = true
-customSCSS = ["scss/custom.scss"]
 
 [markup.highlight]
 style = "github-dark"
@@ -36,6 +35,7 @@ dateFormat = "January 2, 2006"
 since = 2020
 colorScheme = "light"
 hideColorSchemeToggle = true
+customSCSS = ["scss/custom.scss"]
 
 [[params.social]]
 name = "Github"
