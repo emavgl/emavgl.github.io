@@ -37,6 +37,9 @@ colorScheme = "light"
 hideColorSchemeToggle = true
 customSCSS = ["scss/custom.scss"]
 
+[params.goatCounter]
+code = "emavgl-github"
+
 [[params.social]]
 name = "Github"
 icon = "fa fa-github fa-2x"
