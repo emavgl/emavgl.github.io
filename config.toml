@@ -10,7 +10,7 @@ pygmentsCodeFences = true
 pygmentsCodeFencesGuessSyntax = true
 pygmentsUseClasses = false
 enableEmoji = true
-
+disqusShortname = "https-emavgl-github-io"
 canonifyURLs = true
 
 [markup.highlight]
@@ -72,7 +72,7 @@ url = "about/"
 [[languages.en.menu.main]]
 name = "Blog"
 weight = 2
-url = "blog/"
+url = "posts/"
 
 [[languages.en.menu.main]]
 name = "Projects"
