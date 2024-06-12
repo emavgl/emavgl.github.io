@@ -10,17 +10,21 @@ slug = "about"
 {{< /rawhtml >}}  
 
 **_Emanuele Viglianisi_**  
-*Software Engineer (Data)*  
+*Senior Software Engineer (Data)*  
 *emavgl@gmail.com*  
 *[github.com/emavgl](https://github.com/emavgl)*  
 *[linkedin.com/in/emanuele-viglianisi](https://linkedin.com/in/emanuele-viglianisi)* 
 
-I am a Software Engineer with experience in designing and implementing big data platforms. I have a strong background in data engineering, cloud computing, distributed systems and security. I am originally from Sicily, Italy, but living in Linz, Austria. In my free time, I enjoy running, cooking (and eating), reading, and exploring new places. I am looking for a new challenge as a Software Engineer in a dynamic and innovative company.
+I am a Senior Software Engineer with experience in designing and implementing big data platforms. I have a strong background in data engineering, cloud computing, distributed systems and security. I am originally from Sicily, Italy, but living in Linz, Austria. In my free time, I enjoy running, cooking (and eating), reading, and exploring new places.
 
 ### Work experience
 
+### Senior Software Engineer at Dynatrace
+**Jun 2023 - Ongoing **
+- Working on Dynatrace Query Language (DQL) touching different topics: permissions, execution optimisation, record deletion.
+
 #### Software Engineer (Data) at Runtastic
-**2020-2023**
+**2020 - Jun 2023**
 - Worked on designing and implementing Runtastic's new data platform, based on Databricks and Microsoft Azure, including ETL pipelines, systems to ensure GDPR compliance and data quality, CI/CD tooling, orchestration, and alerting.
 - Worked with the data science team, implementing data products such as:
     - Follower Recommendation: A graph-based recommendation system to find and suggest users who share common interests and connections. The solution is based on Pyspark and - Graphframes and increased the average number of followers per user by 60%.
