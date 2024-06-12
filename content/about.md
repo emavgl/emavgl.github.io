@@ -20,7 +20,7 @@ I am a Senior Software Engineer with experience in designing and implementing bi
 ### Work experience
 
 ### Senior Software Engineer at Dynatrace
-**Jun 2023 - Ongoing **
+**Jun 2023 - Ongoing**
 - Working on Dynatrace Query Language (DQL) touching different topics: permissions, execution optimisation, record deletion.
 
 #### Software Engineer (Data) at Runtastic
