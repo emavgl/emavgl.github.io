@@ -53,12 +53,6 @@ weight = 2
 url = "https://www.linkedin.com/in/emanuele-viglianisi/"
 
 [[params.social]]
-name = "Twitter"
-icon = "fa fa-twitter fa-2x"
-weight = 3
-url = "https://x.com/emavgl/"
-
-[[params.social]]
 name = "Email"
 icon = "fa fa-envelope fa-2x"
 weight = 4
