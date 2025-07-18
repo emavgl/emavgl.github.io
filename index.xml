@@ -39,19 +39,9 @@
 
 &lt;img style="float: left; margin-right: 20px;" src="https://viglianisi.eu/images/oinkoin.png" width="100" />
 
-&lt;p>Oinkoin Money Manager makes managing personal finances easy and secure. It is light and easy to use. You need just few taps to keep track of your expenses. Simplicity and Security are our two main drivers: Oinkoin is an offline and ad-free app.&lt;br>
-&lt;a href="https://play.google.com/store/apps/details?id=com.github.emavgl.piggybank&amp;amp;hl=en&amp;amp;gl=US" class="external-link" target="_blank" rel="noopener">[Oinkoin on Google Play]&lt;/a>
-&lt;a href="https://play.google.com/store/apps/details?id=com.github.emavgl.piggybankpro&amp;amp;hl=en&amp;amp;gl=US" class="external-link" target="_blank" rel="noopener">[Oinkoin Pro on Google Play]&lt;/a>
-&lt;a href="https://github.com/emavgl/oinkoin" class="external-link" target="_blank" rel="noopener">[Github]&lt;/a>&lt;/p>
-&lt;h2 id="face-masks">
- Face Masks
- &lt;a class="heading-link" href="#face-masks">
- &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
- &lt;span class="sr-only">Link to heading&lt;/span>
- &lt;/a>
-&lt;/h2>
-
-&lt;img style="float: left; margin-right: 20px;" src="https://viglianisi.eu/images/facemask.png" width="100" />
-
-&lt;p>A simple and free tracker to monitor the usage of your face masks.&lt;br>
-&lt;a href="https://play.google.com/store/apps/details?id=com.codesgaggle.facemasks&amp;amp;hl=en&amp;amp;gl=US" class="external-link" target="_blank" rel="noopener">[Face Masks on Google Play]&lt;/a>&lt;/p></description></item></channel></rss>
+&lt;p>Oinkoin Money Manager makes managing personal finances easy and secure. It is light and easy to use. You need just few taps to keep track of your expenses. Simplicity and Security are our two main drivers: Oinkoin is an offline and ad-free app.&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://play.google.com/store/apps/details?id=com.github.emavgl.piggybank&amp;amp;hl=en&amp;amp;gl=US" class="external-link" target="_blank" rel="noopener">[Oinkoin on Google Play]&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://play.google.com/store/apps/details?id=com.github.emavgl.piggybankpro&amp;amp;hl=en&amp;amp;gl=US" class="external-link" target="_blank" rel="noopener">[Oinkoin Pro on Google Play]&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/emavgl/oinkoin" class="external-link" target="_blank" rel="noopener">[Github]&lt;/a>&lt;/li>
+&lt;/ul></description></item></channel></rss>
