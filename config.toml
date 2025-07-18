@@ -4,7 +4,7 @@ theme = "hugo-coder"
 
 languageCode = "en"
 defaultContentLanguage = "en"
-paginate = 20
+pagerSize = 20
 pygmentsStyle = "bw"
 pygmentsCodeFences = true
 pygmentsCodeFencesGuessSyntax = true
