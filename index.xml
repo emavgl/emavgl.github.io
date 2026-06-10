@@ -9,12 +9,12 @@
  &lt;img src="https://viglianisi.eu/images/avatar.jpg" width="300" /&gt;
 &lt;/div&gt;
 
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;Emanuele Viglianisi&lt;/em&gt;&lt;/strong&gt;&lt;br&gt;
-&lt;em&gt;Senior Software Engineer (Data)&lt;/em&gt;&lt;br&gt;
-&lt;em&gt;&lt;a href="mailto:emavgl@gmail.com" &gt;emavgl@gmail.com&lt;/a&gt;&lt;/em&gt;&lt;br&gt;
-&lt;em&gt;&lt;a href="https://github.com/emavgl" class="external-link" target="_blank" rel="noopener"&gt;github.com/emavgl&lt;/a&gt;&lt;/em&gt;&lt;br&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Emanuele Viglianisi&lt;/em&gt;&lt;/strong&gt;
+&lt;em&gt;Senior Software Engineer (Data)&lt;/em&gt;
+&lt;em&gt;&lt;a href="mailto:emavgl@gmail.com" &gt;emavgl@gmail.com&lt;/a&gt;&lt;/em&gt;
+&lt;em&gt;&lt;a href="https://github.com/emavgl" class="external-link" target="_blank" rel="noopener"&gt;github.com/emavgl&lt;/a&gt;&lt;/em&gt;
 &lt;em&gt;&lt;a href="https://linkedin.com/in/emanuele-viglianisi" class="external-link" target="_blank" rel="noopener"&gt;linkedin.com/in/emanuele-viglianisi&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;I am a Senior Software Engineer with experience in designing and implementing big data platforms. I have a strong background in data engineering, cloud computing, distributed systems and security. I am originally from Sicily, Italy, but living in Linz, Austria. In my free time, I enjoy running, cooking (and eating), reading, and exploring new places.&lt;/p&gt;
+&lt;p&gt;Senior Software Engineer with strong background in data engineering, cloud computing, big data, distributed systems, and security. Originally from Sicily (Italy), currently based in Linz (Austria). Beyond engineering, I enjoy cooking (and eating) authentic food, hacking on personal side projects, and exploring new places.&lt;/p&gt;
 &lt;h3 id="work-experience"&gt;
  Work experience
  &lt;a class="heading-link" href="#work-experience"&gt;
@@ -29,7 +29,7 @@
  &lt;span class="sr-only"&gt;Link to heading&lt;/span&gt;
  &lt;/a&gt;
 &lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;Jun 2023 - Ongoing&lt;/strong&gt;&lt;/p&gt;</description></item><item><title>Blog</title><link>https://viglianisi.eu/blog/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://viglianisi.eu/blog/</guid><description>&lt;p&gt;Nothing to see here&amp;hellip; yet!&lt;/p&gt;</description></item><item><title>Projects</title><link>https://viglianisi.eu/projects/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://viglianisi.eu/projects/</guid><description>&lt;h2 id="oinkoin"&gt;
+&lt;p&gt;&lt;strong&gt;July 2023 – Present&lt;/strong&gt;&lt;/p&gt;</description></item><item><title>Blog</title><link>https://viglianisi.eu/blog/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://viglianisi.eu/blog/</guid><description>&lt;p&gt;Nothing to see here&amp;hellip; yet!&lt;/p&gt;</description></item><item><title>Projects</title><link>https://viglianisi.eu/projects/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://viglianisi.eu/projects/</guid><description>&lt;h2 id="oinkoin"&gt;
  Oinkoin
  &lt;a class="heading-link" href="#oinkoin"&gt;
  &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"&gt;&lt;/i&gt;
@@ -39,9 +39,20 @@
 
 &lt;img style="float: left; margin-right: 20px;" src="https://viglianisi.eu/images/oinkoin.png" width="100" /&gt;
 
-&lt;p&gt;Oinkoin Money Manager makes managing personal finances easy and secure. It is light and easy to use. You need just few taps to keep track of your expenses. Simplicity and Security are our two main drivers: Oinkoin is an offline and ad-free app.&lt;/p&gt;
+&lt;p&gt;Oinkoin is a cross-platform personal finance and expense-tracking application built with Flutter. Manage your personal finances easily and securely with just few taps. It is an offline and ad-free app. (390+ stars, ~1400 monthly active users)&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://play.google.com/store/apps/details?id=com.github.emavgl.piggybank&amp;amp;hl=en&amp;amp;gl=US" class="external-link" target="_blank" rel="noopener"&gt;[Oinkoin on Google Play]&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://play.google.com/store/apps/details?id=com.github.emavgl.piggybankpro&amp;amp;hl=en&amp;amp;gl=US" class="external-link" target="_blank" rel="noopener"&gt;[Oinkoin Pro on Google Play]&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://github.com/emavgl/oinkoin" class="external-link" target="_blank" rel="noopener"&gt;[Github]&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description></item></channel></rss>
+&lt;/ul&gt;
+&lt;h2 id="richtigelageat"&gt;
+ richtigelage.at
+ &lt;a class="heading-link" href="#richtigelageat"&gt;
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"&gt;&lt;/i&gt;
+ &lt;span class="sr-only"&gt;Link to heading&lt;/span&gt;
+ &lt;/a&gt;
+&lt;/h2&gt;
+
+&lt;img style="float: left; margin-right: 20px;" src="https://viglianisi.eu/images/richtigelage.svg" width="100" /&gt;
+
+&lt;p&gt;Built a web app that computes livability score for residential locations based on aggregated results from diverse open-data catalogs and OpenStreetMap. Developed a backend analytics pipeline to aggregate user requests, enabling real-time insights into trending search zones and top-rated locations.&lt;/p&gt;</description></item></channel></rss>
