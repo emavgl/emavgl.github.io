@@ -27,8 +27,14 @@ figure.left-aligned {
     }
 }
 
-figure.centered {
-    text-align: center;
+.content figure {
+    margin-bottom: 2rem;
+}
+
+.content figure figcaption p {
+    font-size: 0.9em;
+    font-style: italic;
+    margin-top: 0.1rem;
 }
 
 @media only screen and (max-width: 768px) {

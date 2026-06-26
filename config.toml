@@ -59,11 +59,6 @@ weight = 4
 url = "mailto:emavgl@gmail.com"
 
 [[languages.en.menu.main]]
-name = "About"
-weight = 1
-url = "about/"
-
-[[languages.en.menu.main]]
 name = "Blog"
 weight = 2
 url = "posts/"
