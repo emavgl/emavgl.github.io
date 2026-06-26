@@ -2,6 +2,17 @@ ul {
     padding-inline-start: 20px;
 }
 
+.content .post .post-meta .tags .tag {
+    display: inline;
+    padding: 0;
+    background: none;
+    border-radius: 0;
+}
+
+.content .post .post-meta .tags .separator {
+    display: none;
+}
+
 @media only screen and (max-width: 768px) {
     .avatar img {
         width: 20rem;
