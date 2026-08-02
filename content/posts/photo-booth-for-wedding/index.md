@@ -45,4 +45,4 @@ I had so much fun with this useful project that I decided to spend some more tim
 
 {{< figure src="screenshot2.jpeg" alt="Countdown screen during a photo" width="500" caption="Countdown screen during a photo" >}}
 
-Link to download [JustBooth](https://play.google.com/store/apps/details?id=eu.viglianisi.photobooth)
+Link to download [JustBooth](https://play.google.com/store/apps/details?id=eu.viglianisi.photobooth) · Visit the [JustBooth website](https://justbooth.viglianisi.eu)
