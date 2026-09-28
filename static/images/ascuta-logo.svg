@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 108 108" role="img" aria-labelledby="title">
+  <title>Ascuta</title>
+  <rect width="108" height="108" rx="24" fill="#006494"/>
+  <g fill="none" stroke="#fff" stroke-linecap="round" stroke-width="7">
+    <path d="M36 43v22" stroke-opacity="0.14"/>
+    <path d="M45 37v34" stroke-opacity="0.35"/>
+    <path d="M54 30v48"/>
+    <path d="M63 37v34" stroke-opacity="0.35"/>
+    <path d="M72 43v22" stroke-opacity="0.14"/>
+  </g>
+</svg>

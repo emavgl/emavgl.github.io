@@ -3,6 +3,16 @@ title = "Projects"
 slug = "projects"
 +++
 
+## Ascuta
+
+{{< rawhtml >}}
+<img style="float: left; margin-right: 20px;" src="/images/ascuta-logo.svg" width="100" />
+{{< /rawhtml >}}
+
+Ascuta is a private, on-device voice-to-text app for Android. A floating mic bubble dictates into any app using open-source speech models that run fully offline, with optional AI post-processing and cloud transcription using your own key.
+- [Ascuta website](https://ascuta.viglianisi.eu)
+- [Ascuta on Google Play](https://play.google.com/store/apps/details?id=eu.viglianisi.ascuta)
+
 ## Oinkoin
 
 {{< rawhtml >}}
