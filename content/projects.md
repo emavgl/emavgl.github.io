@@ -53,3 +53,13 @@ Turn any Android tablet or phone into a standalone photobooth — no extra hardw
 KAOS is a fast arcade survival game for Android. Tilt your phone to roll the ball, dodge crumbling walls and falling meteors, and survive the rising chaos for as long as you can. Features tilt controls, weekly and all-time leaderboards, shareable runs, and offline play.
 - [KAOS website](https://kaos.viglianisi.eu)
 - [KAOS on Google Play](https://play.google.com/store/apps/details?id=eu.viglianisi.kaos)
+
+## SWISH
+
+{{< rawhtml >}}
+<img style="float: left; margin-right: 20px;" src="/images/swish-logo.svg" width="100" />
+{{< /rawhtml >}}
+
+SWISH is a one-thumb arcade basketball game for Android. Flick the ball into the hoop, chain baskets to build a combo, and bounce shots off the walls for extra points. Every basket adds time back to the sixty-second clock, and there is no last level. Free, no ads, and it works offline.
+- [SWISH website](https://swish.viglianisi.eu)
+- [SWISH on Google Play](https://play.google.com/store/apps/details?id=eu.viglianisi.swish)
