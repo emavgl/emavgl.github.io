@@ -24,6 +24,11 @@ jobs:
           hugo-version: 'latest'
           extended: true
 
+      # Hugo >= 0.128 transpiles Sass with Dart Sass and no longer bundles
+      # libsass; the theme's SCSS needs the `sass` executable in PATH.
+      - name: Install Dart Sass
+        run: npm install --global sass
+
       - name: Build
         run: hugo --minify
 
