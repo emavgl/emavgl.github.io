@@ -22,7 +22,6 @@ Ascuta is a private, on-device voice-to-text app for Android. A floating mic bub
 Oinkoin is a cross-platform personal finance and expense-tracking application built with Flutter. Manage your personal finances easily and securely with just few taps. It is an offline and ad-free app. (390+ stars, ~1400 monthly active users)
 - [Oinkoin website](https://oinkoin.com)
 - [Oinkoin on Google Play](https://play.google.com/store/apps/details?id=com.github.emavgl.piggybank&hl=en&gl=US)
-- [Oinkoin Pro on Google Play](https://play.google.com/store/apps/details?id=com.github.emavgl.piggybankpro&hl=en&gl=US)
 - [Github](https://github.com/emavgl/oinkoin)
 
 ## richtigelage.at
