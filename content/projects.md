@@ -63,3 +63,13 @@ KAOS is a fast arcade survival game for Android. Tilt your phone to roll the bal
 SWISH is a one-thumb arcade basketball game for Android. Flick the ball into the hoop, chain baskets to build a combo, and bounce shots off the walls for extra points. Every basket adds time back to the sixty-second clock, and there is no last level. Free, no ads, and it works offline.
 - [SWISH website](https://swish.viglianisi.eu)
 - [SWISH on Google Play](https://play.google.com/store/apps/details?id=eu.viglianisi.swish)
+
+## Galassia
+
+{{< rawhtml >}}
+<img style="float: left; margin-right: 20px;" src="/images/galassia.png" width="100" />
+{{< /rawhtml >}}
+
+Galassia is a minimal analog watch face for Wear OS. A real Milky Way panorama sits behind the dial and rotates through 32 tiles of the night sky, changing every 30 minutes. Features a vintage-inspired dial, a date complication, an optional center text complication, three tick styles, and it is designed for round AMOLED watches.
+- [Galassia website](https://viglianisi.eu/astro-watchface/)
+- [Galassia on Google Play](https://play.google.com/store/apps/details?id=eu.viglianisi.galassia)
